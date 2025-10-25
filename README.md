@@ -1,4 +1,5 @@
 Agentic Codebase Genius
+
 A multi-agent pipeline for automated codebase documentation generation. This system analyzes GitHub repositories and generates comprehensive, well-structured documentation using a collaborative agent architecture.
 
  Features
@@ -85,3 +86,4 @@ agentic_codebase_genius/
 ├── outputs/                 # Generated documentation
 ├── requirements.txt         # Python dependencies
 └── setup.sh                # Installation script
+
